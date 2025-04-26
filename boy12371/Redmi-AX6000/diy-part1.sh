@@ -16,7 +16,7 @@
 # Add a feed source
 # echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 # echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-# echo 'src-git tunnel https://github.com/boy12371/openwrt-argo-tunnel' >>feeds.conf.default
+echo 'src-git tunnel https://github.com/boy12371/openwrt-argo-tunnel' >>feeds.conf.default
 # echo 'src-git messense https://github.com/messense/aliyundrive-webdav' >>feeds.conf.default
 # echo 'src-git cloudflared https://github.com/BH4EHN/openwrt-cloudflared' >>feeds.conf.default
 ## 修改DTS的spi_nand的spi-max-frequency为52MHz
