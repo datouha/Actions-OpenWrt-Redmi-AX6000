@@ -33,7 +33,7 @@ env:
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
   ###############改名字##############
-  OPENWRT_NAME: boy12371
+  OPENWRT_NAME: ludatou
 
 jobs:
   build:
